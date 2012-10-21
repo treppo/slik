@@ -1,0 +1,12 @@
+export PATH ; PATH="/Users/christiantreppo/.rvm/gems/ruby-1.9.3-p194@slik/bin:/Users/christiantreppo/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/christiantreppo/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/christiantreppo/.rvm/bin:$PATH"
+export rvm_env_string ; rvm_env_string='ruby-1.9.3-p194@slik'
+export rvm_path ; rvm_path='/Users/christiantreppo/.rvm'
+export rvm_ruby_string ; rvm_ruby_string='ruby-1.9.3-p194'
+export rvm_gemset_name ; rvm_gemset_name='slik'
+export RUBY_VERSION ; RUBY_VERSION='ruby-1.9.3-p194'
+export GEM_HOME ; GEM_HOME='/Users/christiantreppo/.rvm/gems/ruby-1.9.3-p194@slik'
+export GEM_PATH ; GEM_PATH='/Users/christiantreppo/.rvm/gems/ruby-1.9.3-p194@slik:/Users/christiantreppo/.rvm/gems/ruby-1.9.3-p194@global'
+export MY_RUBY_HOME ; MY_RUBY_HOME='/Users/christiantreppo/.rvm/rubies/ruby-1.9.3-p194'
+export IRBRC ; IRBRC='/Users/christiantreppo/.rvm/rubies/ruby-1.9.3-p194/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT
