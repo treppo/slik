@@ -1,4 +1,7 @@
 Slik::Application.routes.draw do
-  root :to => 'Clearance::Sessions#new'
+  resources :tracks
+
+  root :to => 'tracks#index'
+  # root :to => 'Clearance::Sessions#new'
 
 end

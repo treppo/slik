@@ -29,6 +29,7 @@ gem 'formtastic'
 gem 'flutie'
 gem 'bourbon'
 gem 'airbrake'
+gem 'slim-rails'
 
 group :development do
   gem 'foreman'
